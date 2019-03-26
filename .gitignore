@@ -1,0 +1,10 @@
+*.a
+./src/tests/trivial_test
+CMakeCache.txt
+CMakeFiles
+CTestTestfile.cmake
+Makefile
+Testing
+cmake_install.cmake
+compile_commands.json
+trivial_test
